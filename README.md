@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dhruv06122002 AKA DHRUV ITWALA.
+- 👋 Hi, I’m @dhruv06122002 aka DHRUV ITWALA.
 - 👀 I’m interested in Game Development and have work experience of 3 years in Gaming sector.
 - I’m a Youtuber as well as Content Creator and Script Writer.
 - 🌱 I’m currently learning Unity and Mongo DB 
