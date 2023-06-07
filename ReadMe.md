@@ -1,5 +1,5 @@
 ## 👋 Hey everyone, I'm DHRUV ITWALA 👋
-<img align="center" src="1.png"><br>
+<img align="center" src="1_2.png"><br>
 <br>
 # 💫 About Me:
 👋 Hi, I’m Dhruv Itwala.<br>👀 I’m interested in Developing web apps and games.<br>🔭 I’m currently working on the Unreal engine.<br>🤝 I’m looking for help with designers.<br>🌱 I’m currently learning VFX and Animation.<br>💬 Ask me about my gaming career and works<br>⚡ Fun fact about me I'm an engineer.
